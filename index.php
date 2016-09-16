@@ -33,7 +33,7 @@
 						<br>
 						<div class="from-group">
 							<label id="lable4" class="form-group">Don't have an account?</label>
-							<a id="lable5" class="form-group" href="">Sign Up</a>
+							<a id="lable5" class="form-group" href="signup.php">Sign Up</a>
 						</div>
 					</form>
 				</div>
